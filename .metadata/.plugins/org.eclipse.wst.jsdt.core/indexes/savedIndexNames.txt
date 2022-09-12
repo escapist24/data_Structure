@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+C:\Users\eimpurk\data_Structure\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+439132328.index
+2853756285.index
+3781283732.index
+22036636.index
